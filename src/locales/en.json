@@ -43,288 +43,374 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Vindictus: Defying Fate asks you to commit to every swing, so start with the basics: pick a hero at the campfire, test each weapon type, and drill the dodge-then-counter rhythm before you chase damage."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Character to Pick",
+          "description": "Compare the four confirmed heroes before you commit. Lann chains twin-sword combos, Fiona blocks and counters behind a longsword and shield, Karok staggers crowds with a massive pillar, and Delia rewards precise bastard-sword strings."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Combat Basics",
+          "description": "Vindictus: Defying Fate combat runs on a five-beat loop: bait the attack, perfect dodge, counter, land a heavy strike, then reset. Dodging, guarding, and sprinting all drain one stamina pool, so spend it like currency."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Vindictus: Defying Fate."
+          "title": "Skill Tree and Ability Points",
+          "description": "Ability Points come from chests you find while exploring. Spend them on the shared general skill tree to power up every hero and follower at once, then invest in per-character nodes to specialize your main."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Vindictus: Defying Fate Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Character Guides",
+        "Combat Basics",
+        "Boss Strategies",
+        "Release Date"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Roster",
+          "title": "All Characters",
+          "description": "Lann, Fiona, Karok, and Delia compared by weapon type, core skills, and playstyle before you pick a main.",
+          "href": "/characters/vindictus-defying-fate-all-characters"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Combat Guide",
+          "description": "Perfect dodges, powerful counters, heavy strikes, and the stamina rules behind every Vindictus: Defying Fate fight.",
+          "href": "/combat/vindictus-defying-fate-combat"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Bosses",
+          "title": "Boss Strategies",
+          "description": "Crimsongale, Shadowfang, Sharptooth, and Snowskin broken down with attack patterns and punish windows.",
+          "href": "/combat/vindictus-defying-fate-bosses"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "2027",
+          "title": "Release Date",
+          "description": "The listed 2027 release window, dev log milestones, and where a confirmed launch date will appear first.",
+          "href": "/guide/vindictus-defying-fate-release-date"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "PC",
+          "title": "System Requirements",
+          "description": "Minimum and recommended CPU and GPU tiers so you can plan an upgrade long before launch week.",
+          "href": "/guide/vindictus-defying-fate-system-requirements"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Testing",
+          "title": "Alpha Test Access",
+          "description": "How alpha and focus group test windows work and what to prepare before the next one opens.",
+          "href": "/guide/vindictus-defying-fate-alpha-test"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Compare",
+          "title": "Class Comparison",
+          "description": "Weapon types, combat roles, and learning curves side by side to help you choose a hero that fits.",
+          "href": "/characters/vindictus-defying-fate-classes"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Co-op",
+          "title": "Co-op and Special Missions",
+          "description": "How online co-op, follower swapping, and Special Missions change the way boss fights play out.",
+          "href": "/modes/vindictus-defying-fate-coop"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Gear",
+          "title": "Costumes and Outfits",
+          "description": "Cosmetic armor sets, costumes, and skins documented for the Vindictus: Defying Fate roster.",
+          "href": "/items/vindictus-defying-fate-costumes"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Vindictus: Defying Fate?",
+      "title": "What Is Vindictus: Defying Fate?",
       "paragraphs": [
-        "Vindictus: Defying Fate is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Vindictus: Defying Fate is Nexon's character-driven action RPG and a modern reimagining of the original Vindictus MMO. It is built on weighty, animation-locked melee combat: every swing commits you to a recovery window, stamina pays for dodges and guards, and bosses telegraph attacks you are expected to read rather than absorb. Steam lists it as an Action RPG with Souls-like and Hack and Slash tags, headed to PC with a planned 2027 release window.",
+        "The alpha roster covers four heroes: Lann with twin swords, Fiona with a longsword and shield, Karok with a massive pillar, and Delia with a bastard sword. You can swap between them at any campfire, change your follower's hero the same way, and grow through a per-character skill tree plus a shared general tree. Battles scale from a solo campaign to online co-op Special Missions, and this wiki tracks all of it with character breakdowns, combat fundamentals, boss strategies, PC specs, and release news."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Nexon"
+        },
+        {
+          "label": "Publisher",
+          "value": "Nexon"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Combat Style",
+          "value": "Souls-like"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release Window",
+          "value": "2027"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Playable Heroes",
+          "value": "4"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Game Modes",
+          "value": "Solo and Co-op"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Vindictus: Defying Fate Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Vindictus: Defying Fate Wiki",
+      "description": "Eight guide hubs covering the Vindictus: Defying Fate roster, combat system, boss encounters, hero rankings, release details, PC specs, and development news, so you can plan every step before the 2027 launch window.",
       "modules": [
         {
           "order": 1,
-          "name": "Vindictus: Defying Fate Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/vindictus-defying-fate-codes",
-          "displayType": "code-box",
+          "name": "Vindictus Defying Fate Characters",
+          "description": "Introduce the playable heroes Lann, Fiona, Karok, and Delia, highlighting their weapons, combat styles, core skills, and the strengths that decide which fighter suits your playstyle.",
+          "href": "/characters/vindictus-defying-fate-all-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Lann",
+              "detail": "Twin swords and fast, flashy combos built around Cross Assault, Windmill, and Fatal Fury."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Fiona",
+              "detail": "Longsword and shield bruiser who blocks, absorbs, and punishes with Shield Bash and Focal Point."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Karok",
+              "detail": "Half-giant with a massive pillar who trades speed for reach, stagger, and area control."
+            },
+            {
+              "label": "Delia",
+              "detail": "Bastard sword specialist whose deliberate strings include Bloom Waltz and White Rose."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/vindictus-defying-fate-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Vindictus Defying Fate Beginner Guide",
+          "description": "Walk through your first sessions step by step: choosing a hero, reading enemy tells, timing dodges, managing stamina, swapping characters at campfires, and exploring for Ability Points.",
+          "href": "/guide/vindictus-defying-fate-download",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Pick a hero at the campfire: Lann for speed, Fiona for defense, Karok for stagger, Delia for technical strings."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Learn the dodge-counter rhythm before chasing damage, because a perfect dodge opens every real punish window."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Watch the stamina bar: dodging, guarding, and sprinting draw from the same pool that keeps you alive."
+            },
+            {
+              "label": "4",
+              "detail": "Swap your hero and your follower at any campfire to test weapons without restarting your run."
+            },
+            {
+              "label": "5",
+              "detail": "Open chests for Ability Points and materials, then invest in the shared general tree so nothing is wasted."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/vindictus-defying-fate-tier-list",
-          "displayType": "tier-grid",
+          "name": "Vindictus Defying Fate Combat Guide",
+          "description": "Explain the action combat system, including perfect dodges, powerful counters, heavy-hitting strikes, stamina discipline, enemy pattern recognition, and the command inputs that differ per hero.",
+          "href": "/combat/vindictus-defying-fate-combat",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Dodge",
+              "detail": "Time the evade so the attack whiffs completely, because a clean perfect dodge creates the opening for everything else."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Counter",
+              "detail": "Convert a successful dodge into immediate burst damage while the enemy is still stuck in recovery frames."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Heavy Hit",
+              "detail": "Spend your opening on the biggest, slowest strike instead of a fast poke, then reposition and bait again."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Stamina",
+              "detail": "Dodging, guarding, and sprinting share one pool, and an empty bar is how most wipes start."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/vindictus-defying-fate-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Vindictus Defying Fate Boss Guide",
+          "description": "Cover every boss documented so far, with enemy attack patterns, dodge and guard timing, solo versus co-op tactics, and a repeatable game plan for surviving difficult battles.",
+          "href": "/combat/vindictus-defying-fate-bosses",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Chief",
+              "detail": "Gnoll Chieftain Crimsongale opens the campaign with wide sweeping swings that catch late dodges."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Shadowfang",
+              "detail": "Fast, relentless pressure with short recovery windows and lunging closes, so punish only after the last hit."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Sharptooth",
+              "detail": "Aggressive beast-type brawler whose charges carry generous hitboxes, so sidestep instead of backpedaling."
+            },
+            {
+              "label": "Snowskin",
+              "detail": "A cold-climate endurance fight with slow, heavy area attacks that punish greedy combos."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/vindictus-defying-fate-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Vindictus Defying Fate Tier List",
+          "description": "Compare the four alpha heroes by combat style, damage potential, survivability, mobility, and ease of use so you can pick a main that matches how you like to fight.",
+          "href": "/characters/vindictus-defying-fate-classes",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Fiona: longsword and shield with block, absorb, and counter-punish tools, the most forgiving first main."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Lann: twin-sword speed and combo chaining with the highest execution ceiling in the roster."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Delia: bastard-sword strings that reward learning full sequences rather than mashing."
+            },
+            {
+              "label": "C",
+              "detail": "Karok: massive pillar, slow but wide, built for stagger and crowd control over mobility."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/vindictus-defying-fate-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Vindictus Defying Fate Release Date and Platforms",
+          "description": "Summarize the announced release window, confirmed platforms, store status, and development milestones, tracked from Nexon's dev logs and the official Steam listing.",
+          "href": "/guide/vindictus-defying-fate-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Window",
+              "detail": "Vindictus: Defying Fate is listed for a 2027 release window, with no exact day announced yet."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Platform",
+              "detail": "Windows PC through Steam is the only confirmed platform, and consoles have not been announced."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Store",
+              "detail": "The Steam page is live with wishlisting open, and the game is not yet purchasable."
+            },
+            {
+              "label": "Modes",
+              "detail": "A single-player campaign plus online co-op, with controller play recommended by the developers."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Vindictus Defying Fate System Requirements",
+          "description": "List the published minimum and recommended PC specifications, covering operating system, processor, and graphics card tiers so you can judge whether your computer is ready.",
+          "href": "/guide/vindictus-defying-fate-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 (64-bit) on both the minimum and recommended tiers."
+            },
+            {
+              "label": "CPU",
+              "detail": "Minimum Intel Core i5-9400F or AMD Ryzen 7 1800X; recommended Intel Core i7-10700K or AMD Ryzen 7 3700X."
+            },
+            {
+              "label": "GPU",
+              "detail": "Minimum GeForce GTX 1060 (6 GB) or Radeon RX 480 (8 GB); recommended RTX 3060 or RX 5700 XT."
+            },
+            {
+              "label": "RAM",
+              "detail": "Not published on the Steam listing yet, so plan with headroom above the recommended tier."
+            },
+            {
+              "label": "Storage",
+              "detail": "Not published either, so a modern SSD is the safest assumption for large boss arenas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Vindictus Defying Fate News and Updates",
+          "description": "Collect official development logs, test announcements, gameplay reveals, and launch news in one place so you can follow how combat, characters, and features evolve.",
+          "href": "/guide/vindictus-defying-fate-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dev Logs",
+              "detail": "Nexon communicates through monthly dev logs, including the April 2026 post covering the first focus group test."
+            },
+            {
+              "label": "Tests",
+              "detail": "Alpha and Steam Next Fest windows have shaped combat feel and difficulty pacing ahead of the 2027 launch."
+            },
+            {
+              "label": "Trailers",
+              "detail": "Official trailers and gameplay reveals collected from the Nexon channels and the Steam listing."
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Wishlisting on Steam is the fastest way to catch a confirmed release date the moment it changes."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Vindictus: Defying Fate.",
+      "title": "Vindictus: Defying Fate FAQ",
+      "description": "Straight answers to the questions new Vindictus: Defying Fate players ask most, from release timing and characters to combat flow and PC specs.",
       "items": [
         {
           "question": "What is Vindictus: Defying Fate?",
-          "answer": "Vindictus: Defying Fate is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Vindictus: Defying Fate is Nexon's character-driven action RPG and a modern reimagining of the original Vindictus. It is built around animation-locked melee combat where every swing carries a commitment cost, stamina fuels your dodges and guards, and bosses telegraph attacks you are meant to read and counter."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Vindictus: Defying Fate come out?",
+          "answer": "Vindictus: Defying Fate is listed for a 2027 release window on Steam, with no exact day announced yet. The store page is live and wishlisting is open, which is where a confirmed date appears first."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which characters can I play in Vindictus: Defying Fate?",
+          "answer": "The alpha roster covers four heroes: Lann with twin swords, Fiona with a longsword and shield, Karok with a massive pillar, and Delia with a bastard sword. You can swap between them, and change your follower's hero, at any campfire."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does combat work in Vindictus: Defying Fate?",
+          "answer": "Vindictus: Defying Fate combat follows a five-beat loop: bait an attack, land a perfect dodge, convert it into a counter, spend the opening on a heavy strike, then reset. Stamina pays for dodging, guarding, and sprinting, so managing that single pool decides most fights."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can my PC run Vindictus: Defying Fate?",
+          "answer": "The published minimum is Windows 10 64-bit with an Intel Core i5-9400F or AMD Ryzen 7 1800X and a GeForce GTX 1060 (6 GB) or Radeon RX 480 (8 GB). The recommended tier asks for a Core i7-10700K or Ryzen 7 3700X with an RTX 3060 or RX 5700 XT."
+        },
+        {
+          "question": "Does Vindictus: Defying Fate have co-op?",
+          "answer": "Yes. Vindictus: Defying Fate pairs a solo campaign with online co-op, and boss encounters split between campaign fights and cooperative Special Missions. The Steam listing recommends playing with a controller."
         }
       ]
     },
