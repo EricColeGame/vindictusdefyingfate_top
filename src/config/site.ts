@@ -36,6 +36,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://twitter.com/V_DefyingFate",
     tiktok: "https://www.tiktok.com/@vindictus_defyingfate",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ko", "ja", "de"],
   defaultLocale: "en",
 };

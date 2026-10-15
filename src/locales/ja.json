@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Vindictus: Defying Fate Wiki",
+    "shortName": "Vindictus: Defying Fate",
+    "tagline": "キャラクタービルド、ボス攻略 & 戦闘のコツ",
+    "description": "Vindictus: Defying Fate の総合ガイド。キャラクターガイド、戦闘のコツ、ボス攻略、武器ビルド、動作環境、最新のリリース情報をまとめて確認できます。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "combat": "戦闘",
+    "modes": "モード",
+    "platforms": "プラットフォーム",
+    "items": "アイテム",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Vindictus: Defying Fate Wiki - ビルド & ガイド",
+      "description": "Vindictus: Defying Fate のキャラクターガイド、戦闘のコツ、ボス攻略、武器ビルド、動作環境、リリース情報、公式アップデートを一か所で確認できます。"
+    },
+    "hero": {
+      "eyebrow": "ダークファンタジー・アクションRPG",
+      "title": "Vindictus: Defying Fate Wiki",
+      "description": "キャラクターガイド、戦闘のコツ、ボス攻略、武器ビルド、動作環境、最新のリリース情報とともに Vindictus: Defying Fate を探索しましょう。",
+      "stats": [
+        "2027年リリース予定",
+        "公開キャラクター4体",
+        "Steam 表記言語4種",
+        "シングルプレイ & 協力プレイ"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ボス攻略",
+      "tertiaryCta": "リリース日",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Vindictus: Defying Fate の歩み方",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Vindictus: Defying Fate は一振りごとに責任が伴うゲームなので、まずは基本から。焚き火でヒーローを選び、武器タイプを一通り試し、ダメージを追う前に回避から反撃へつなぐリズムを叩き込みましょう。"
+        },
+        {
+          "number": "2",
+          "title": "おすすめキャラクターの選び方",
+          "description": "確定している4人のヒーローを比較してから決めましょう。ランは双剣コンボをつなぎ、フィオナは長剣と盾で受け止めて反撃し、カロックは巨大な柱で敵をよろめかせ、デリアは正確なバスタードソードの連係に報いてくれます。"
+        },
+        {
+          "number": "3",
+          "title": "戦闘の基本",
+          "description": "Vindictus: Defying Fate の戦闘は5拍のループで回ります。攻撃を誘い、ジャスト回避でかわし、反撃に変換し、強攻撃で隙を突き、そしてまた仕切り直す。回避・ガード・ダッシュはすべて同じスタミナを消費するので、通貨のように大切に使いましょう。"
+        },
+        {
+          "number": "4",
+          "title": "スキルツリーとアビリティポイント",
+          "description": "アビリティポイントは探索中に見つける宝箱から得られます。共有の一般スキルツリーに投資すればすべてのヒーローと仲間が同時に強化され、その後はキャラクター固有のノードに投資してメインを特化できます。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "よく読まれている Vindictus: Defying Fate ガイド",
+      "quickLinks": [
+        "キャラクターガイド",
+        "戦闘の基本",
+        "ボス攻略",
+        "リリース日"
+      ],
+      "cards": [
+        {
+          "badge": "名鑑",
+          "title": "全キャラクター",
+          "description": "メインを決める前に、ラン、フィオナ、カロック、デリアを武器タイプ・主要スキル・プレイスタイルで比較します。",
+          "href": "/characters/vindictus-defying-fate-all-characters"
+        },
+        {
+          "badge": "基本",
+          "title": "戦闘ガイド",
+          "description": "Vindictus: Defying Fate のあらゆる戦闘を左右するジャスト回避、強力な反撃、強攻撃、そしてスタミナのルールを解説します。",
+          "href": "/combat/vindictus-defying-fate-combat"
+        },
+        {
+          "badge": "ボス",
+          "title": "ボス攻略",
+          "description": "クリムゾンゲイル、シャドウファング、シャープトゥース、スノウスキンの攻撃パターンと反撃のタイミングを一つずつ分析します。",
+          "href": "/combat/vindictus-defying-fate-bosses"
+        },
+        {
+          "badge": "2027",
+          "title": "リリース日",
+          "description": "2027年と記載されたリリース時期、開発者ブログのマイルストーン、確定日が最初に公開される場所をまとめます。",
+          "href": "/guide/vindictus-defying-fate-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "動作環境",
+          "description": "最低・推奨のCPUとGPUの目安を整理し、発売週よりずっと早くアップグレードを計画できるようにします。",
+          "href": "/guide/vindictus-defying-fate-system-requirements"
+        },
+        {
+          "badge": "テスト",
+          "title": "アルファテスト参加",
+          "description": "アルファテストやフォーカスグループテストの仕組みと、次の募集が始まる前に準備すべき内容を説明します。",
+          "href": "/guide/vindictus-defying-fate-alpha-test"
+        },
+        {
+          "badge": "比較",
+          "title": "クラス比較",
+          "description": "武器タイプ、戦闘での役割、習熟のしやすさを並べて比較し、自分に合うヒーローを選びやすくします。",
+          "href": "/characters/vindictus-defying-fate-classes"
+        },
+        {
+          "badge": "協力",
+          "title": "協力プレイとスペシャルミッション",
+          "description": "オンライン協力、仲間の交代、スペシャルミッションがボス戦の展開をどう変えるかを解説します。",
+          "href": "/modes/vindictus-defying-fate-coop"
+        },
+        {
+          "badge": "装備",
+          "title": "コスチュームと衣装",
+          "description": "Vindictus: Defying Fate のキャラクター名鑑に沿って、外見装備セット、コスチューム、スキンをまとめました。",
+          "href": "/items/vindictus-defying-fate-costumes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Vindictus: Defying Fate とは？",
+      "paragraphs": [
+        "Vindictus: Defying Fate はネクソンのキャラクター主導アクションRPGであり、オリジナルの Vindictus MMO を現代的に再構築した作品です。モーションに固定される重量感のある近接戦闘が土台で、一振りごとに硬直が伴い、スタミナが回避とガードの対価となり、ボスは耐えるのではなく読み取るべき攻撃を予告します。Steam ではソウルライクとハックアンドスラッシュのタグが付いたアクションRPGとして登録され、2027年のリリース予定でPC向けに展開されます。",
+        "アルファ時点の名鑑には4人のヒーローがいます。双剣のラン、長剣と盾のフィオナ、巨大な柱のカロック、バスタードソードのデリアです。焚き火ではいつでも彼らを交代でき、仲間のヒーローも同じ方法で変更でき、キャラクター固有のスキルツリーと共有の一般ツリーで成長します。戦いはソロキャンペーンからオンライン協力のスペシャルミッションまで広がり、このウィキはキャラクター解説、戦闘の基本、ボス攻略、PCスペック、リリース情報をすべて追っています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "ネクソン"
+        },
+        {
+          "label": "販売",
+          "value": "ネクソン"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "アクションRPG"
+        },
+        {
+          "label": "戦闘スタイル",
+          "value": "ソウルライク"
+        },
+        {
+          "label": "リリース時期",
+          "value": "2027年"
+        },
+        {
+          "label": "プレイ可能ヒーロー",
+          "value": "4人"
+        },
+        {
+          "label": "ゲームモード",
+          "value": "ソロ & 協力"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Vindictus: Defying Fate Wiki を探索する",
+      "description": "Vindictus: Defying Fate のキャラクター名鑑、戦闘システム、ボス戦、ヒーローランキング、リリース情報、PCスペック、開発ニュースを扱う8つのガイドハブで、2027年のリリースまでに必要な準備をすべて計画できます。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Vindictus Defying Fate キャラクター",
+          "description": "プレイ可能なヒーロー、ラン、フィオナ、カロック、デリアの武器、戦闘スタイル、主要スキル、そしてどの戦い方が自分に合うかを決める強みを紹介します。",
+          "href": "/characters/vindictus-defying-fate-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ラン",
+              "detail": "クロスアサルト、ウィンドミル、フェイタルフューリーを軸にした、素早く華やかな双剣コンボの使い手です。"
+            },
+            {
+              "label": "フィオナ",
+              "detail": "長剣と盾で受け止め、吸収し、シールドバッシュとフォーカルポイントで反撃する近接タンクです。"
+            },
+            {
+              "label": "カロック",
+              "detail": "速度を犠牲にする代わりに、リーチ、よろけ、範囲制圧を手に入れた巨大な柱を持つハーフジャイアントです。"
+            },
+            {
+              "label": "デリア",
+              "detail": "ブルームワルツやホワイトローズなど、慎重な連係を操るバスタードソードの使い手です。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Vindictus Defying Fate 初心者ガイド",
+          "description": "ヒーローの選び方、敵の予備動作の読み方、回避のタイミング、スタミナ管理、焚き火でのキャラクター交代、アビリティポイント集めまで、最初のプレイを順を追って案内します。",
+          "href": "/guide/vindictus-defying-fate-download",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "焚き火でヒーローを選びましょう。速さならラン、守りならフィオナ、よろけならカロック、技術的な連係ならデリアです。"
+            },
+            {
+              "label": "2",
+              "detail": "ダメージを追う前に回避と反撃のリズムを覚えましょう。ジャスト回避がすべての実質的な反撃機会を生みます。"
+            },
+            {
+              "label": "3",
+              "detail": "スタミナバーを注視しましょう。回避、ガード、ダッシュは生存を左右する同じ資源を消費します。"
+            },
+            {
+              "label": "4",
+              "detail": "焚き火ではいつでもヒーローと仲間を交代でき、進行をやり直さずに武器を試せます。"
+            },
+            {
+              "label": "5",
+              "detail": "宝箱を開けてアビリティポイントと素材を集め、無駄が出ないよう共有の一般ツリーに投資しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Vindictus Defying Fate 戦闘ガイド",
+          "description": "ジャスト回避、強力な反撃、重い一撃、スタミナの管理、敵パターンの見極め、ヒーローごとに異なるコマンド入力まで、アクション戦闘システムを解説します。",
+          "href": "/combat/vindictus-defying-fate-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "回避",
+              "detail": "攻撃が完全に空振りするよう回避のタイミングを合わせましょう。きれいなジャスト回避が他のすべての好機を生みます。"
+            },
+            {
+              "label": "反撃",
+              "detail": "敵がまだ硬直から抜けられないうちに、回避成功を即座の大ダメージに変換しましょう。"
+            },
+            {
+              "label": "強攻撃",
+              "detail": "素早い牽制ではなく、最も大きく遅い一撃に好機を使い、その後は位置を立て直して再び誘いましょう。"
+            },
+            {
+              "label": "スタミナ",
+              "detail": "回避、ガード、ダッシュは一つの資源を共有し、バーが空になる瞬間がほとんどの全滅の始まりです。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Vindictus Defying Fate ボスガイド",
+          "description": "これまでに判明したすべてのボスについて、攻撃パターン、回避とガードのタイミング、ソロと協力の戦術、難しい戦いを繰り返し突破するための手順をまとめます。",
+          "href": "/combat/vindictus-defying-fate-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "族長",
+              "detail": "ノール族の族長クリムゾンゲイルは、大きく振り抜く攻撃で遅れた回避を捕らえてくるキャンペーン序盤の壁です。"
+            },
+            {
+              "label": "シャドウファング",
+              "detail": "短い硬直と突進での距離詰めで休みなく圧力をかけてくるため、最後の一撃の後だけ反撃しましょう。"
+            },
+            {
+              "label": "シャープトゥース",
+              "detail": "突進の判定が広い攻撃的な獣型の格闘型で、後退よりも横回避が安全です。"
+            },
+            {
+              "label": "スノウスキン",
+              "detail": "遅く重い範囲攻撃で欲張ったコンボを罰してくる、寒冷地の持久戦型ボスです。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Vindictus Defying Fate ティアリスト",
+          "description": "4人のアルファヒーローを戦闘スタイル、ダメージ性能、生存力、機動力、扱いやすさで比較し、自分の戦い方に合うメインを選べるようにします。",
+          "href": "/characters/vindictus-defying-fate-classes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "フィオナ：ガード、吸収、反撃手段を備えた長剣と盾で、最も扱いやすい最初のメインです。"
+            },
+            {
+              "label": "A",
+              "detail": "ラン：名鑑で最も高い操作上限を持つ、双剣の速さとコンボ連係の持ち主です。"
+            },
+            {
+              "label": "B",
+              "detail": "デリア：連打ではなく連係全体を覚えるほど報われるバスタードソードの攻撃を操ります。"
+            },
+            {
+              "label": "C",
+              "detail": "カロック：遅いが広い巨大な柱で、機動力よりもよろけと集団制圧に特化しています。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Vindictus Defying Fate リリース日とプラットフォーム",
+          "description": "発表済みのリリース時期、確定プラットフォーム、ストアの状況、開発マイルストーンを、ネクソンの開発者ブログと公式Steamページから整理します。",
+          "href": "/guide/vindictus-defying-fate-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "時期",
+              "detail": "Vindictus: Defying Fate は2027年のリリース予定として記載されており、正確な日付はまだ発表されていません。"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "Steam経由のWindows PCが唯一確定したプラットフォームで、コンソールは発表されていません。"
+            },
+            {
+              "label": "ストア",
+              "detail": "Steamページは公開済みでウィッシュリスト登録が可能ですが、ゲームはまだ購入できません。"
+            },
+            {
+              "label": "モード",
+              "detail": "シングルプレイのキャンペーンとオンライン協力に対応し、開発陣はコントローラーでのプレイを推奨しています。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Vindictus Defying Fate 動作環境",
+          "description": "OS、プロセッサ、グラフィックカードの目安を含む公開済みの最低・推奨PCスペックをまとめ、自分のPCが準備できているか判断できるようにします。",
+          "href": "/guide/vindictus-defying-fate-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "最低・推奨ともに Windows 10 (64ビット) です。"
+            },
+            {
+              "label": "CPU",
+              "detail": "最低は Intel Core i5-9400F または AMD Ryzen 7 1800X、推奨は Intel Core i7-10700K または AMD Ryzen 7 3700X です。"
+            },
+            {
+              "label": "GPU",
+              "detail": "最低は GeForce GTX 1060 (6GB) または Radeon RX 480 (8GB)、推奨は RTX 3060 または RX 5700 XT です。"
+            },
+            {
+              "label": "RAM",
+              "detail": "Steamページではまだ公開されていないため、推奨スペックより余裕を持って計画しましょう。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "これも未公開なので、広いボスアリーナを考えると最新のSSDが最も安全な想定です。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Vindictus Defying Fate ニュースとアップデート",
+          "description": "公式の開発者ブログ、テスト告知、ゲームプレイ公開、リリース情報を一か所に集め、戦闘やキャラクター、機能がどう進化するかを追えるようにします。",
+          "href": "/guide/vindictus-defying-fate-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "開発者ブログ",
+              "detail": "ネクソンは月次の開発者ブログで情報を発信しており、最初のフォーカスグループテストを扱った2026年4月の記事も含まれます。"
+            },
+            {
+              "label": "テスト",
+              "detail": "アルファや Steam Next Fest の期間が、2027年のリリースに向けて戦闘の手触りと難易度のテンポを形作ってきました。"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "ネクソンのチャンネルとSteamページから集めた公式トレーラーとゲームプレイ公開映像です。"
+            },
+            {
+              "label": "ウィッシュリスト",
+              "detail": "Steamでのウィッシュリスト登録は、確定したリリース日が変わった瞬間を最も早く掴む方法です。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vindictus: Defying Fate よくある質問",
+      "description": "リリース時期やキャラクターから戦闘の流れ、PCスペックまで、Vindictus: Defying Fate を始めるプレイヤーが最も多く尋ねる疑問に簡潔に答えます。",
+      "items": [
+        {
+          "question": "Vindictus: Defying Fate とはどんなゲームですか？",
+          "answer": "Vindictus: Defying Fate はネクソンのキャラクター主導アクションRPGで、オリジナルの Vindictus を現代的に再構築した作品です。一振りごとに硬直が伴うモーション固定の近接戦闘を軸に、スタミナが回避とガードを支え、ボスは読んで反撃すべき攻撃を予告します。"
+        },
+        {
+          "question": "Vindictus: Defying Fate はいつ発売されますか？",
+          "answer": "Vindictus: Defying Fate はSteamで2027年のリリース予定として記載されており、正確な日付はまだ発表されていません。ストアページは公開済みでウィッシュリスト登録が可能で、確定日もそこが最初の発表場所になります。"
+        },
+        {
+          "question": "Vindictus: Defying Fate ではどのキャラクターを操作できますか？",
+          "answer": "アルファ時点の名鑑には4人のヒーローがいます。双剣のラン、長剣と盾のフィオナ、巨大な柱のカロック、バスタードソードのデリアです。焚き火ではいつでも交代でき、仲間のヒーローも同じ方法で変更できます。"
+        },
+        {
+          "question": "Vindictus: Defying Fate の戦闘はどのように進みますか？",
+          "answer": "Vindictus: Defying Fate の戦闘は5拍のループに従います。攻撃を誘い、ジャスト回避を決め、それを反撃に変え、強攻撃で隙を突き、そして仕切り直す。回避、ガード、ダッシュはすべてスタミナを消費するため、この一つの資源の管理がほとんどの戦いを決めます。"
+        },
+        {
+          "question": "自分のPCで Vindictus: Defying Fate は動きますか？",
+          "answer": "公開されている最低要件は Windows 10 64ビット、Intel Core i5-9400F または AMD Ryzen 7 1800X、GeForce GTX 1060 (6GB) または Radeon RX 480 (8GB) です。推奨要件は Core i7-10700K または Ryzen 7 3700X と RTX 3060 または RX 5700 XT です。"
+        },
+        {
+          "question": "Vindictus: Defying Fate に協力プレイはありますか？",
+          "answer": "はい。Vindictus: Defying Fate はソロキャンペーンとオンライン協力を併せ持ち、ボス戦はキャンペーンの戦いと協力スペシャルミッションに分かれます。Steamページではコントローラーの使用が推奨されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Vindictus: Defying Fate を極める準備はできましたか？",
+      "description": "アルファテストでの第一歩から終盤のボス戦まで、コミュニティウィキが無料で最新のガイドを届けます。",
+      "primary": "すべてのガイドを見る",
+      "secondary": "Steamでウィッシュリスト登録"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Vindictus: Defying Fate ガイド",
+    "overviewDescription": "リリース日、デモ、ダウンロード、動作環境まで — Vindictus: Defying Fate の発売前に知っておきたい情報をまとめました。"
+  },
+  "characters": {
+    "overviewTitle": "Vindictus: Defying Fate キャラクター",
+    "overviewDescription": "フィオナやランからデリア、カロックまで、Vindictus: Defying Fate のすべてのプレイ可能キャラクターとクラス、カスタマイズ要素を紹介します。"
+  },
+  "combat": {
+    "overviewTitle": "Vindictus: Defying Fate 戦闘 & ボス",
+    "overviewDescription": "ボス戦、武器スタイル、そして Vindictus: Defying Fate の遊び方を決定づけるソウルライクな回避と反撃の戦闘を扱います。"
+  },
+  "modes": {
+    "overviewTitle": "Vindictus: Defying Fate ゲームモード",
+    "overviewDescription": "Vindictus: Defying Fate のマルチプレイ、協力、シングルプレイ、オフライン、オープンワールドの情報をまとめました。"
+  },
+  "platforms": {
+    "overviewTitle": "Vindictus: Defying Fate プラットフォーム",
+    "overviewDescription": "Vindictus: Defying Fate の PC、Steam、PS5、Xbox のリリース計画についてネクソンが確定した内容を整理します。"
+  },
+  "items": {
+    "overviewTitle": "Vindictus: Defying Fate アイテム & 衣装",
+    "overviewDescription": "Vindictus: Defying Fate のキャラクターの見た目をカスタマイズできる衣装、防具、コスチューム、スキンを紹介します。"
+  },
+  "community": {
+    "overviewTitle": "Vindictus: Defying Fate コミュニティ",
+    "overviewDescription": "Vindictus: Defying Fate を追うプレイヤー向けの公式サイト、Discord、Reddit のリンクです。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "updated": "更新",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度ご確認ください！"
+  },
+  "footer": {
+    "aboutTitle": "Vindictus: Defying Fate Wiki",
+    "about": "Vindictus: Defying Fate Wiki は、キャラクター、戦闘、ボス、ビルド、必須のゲーム知識を扱う独立したファン制作のガイドハブで、新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Vindictus: Defying Fate Wiki. NEXONとは提携していません。",
+    "description": "ネクソンのダークファンタジー・アクションRPG。キャラクタービルド、ボス攻略、戦闘のコツ。",
+    "playGame": "公式サイト",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "Steam ストアページ",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "characterGuides": "キャラクターガイド",
+    "combatGuides": "戦闘 & ボスガイド",
+    "gameModes": "ゲームモード",
+    "platformGuides": "プラットフォーム & リリース",
+    "itemGuides": "アイテム & 衣装",
+    "communityLinks": "コミュニティ"
+  }
+}

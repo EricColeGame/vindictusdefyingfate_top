@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Vindictus: Defying Fate Wiki",
+    "shortName": "Vindictus: Defying Fate",
+    "tagline": "Charakter-Builds, Boss-Guides & Kampftipps",
+    "description": "Euer ultimativer Guide zu Vindictus: Defying Fate. Entdeckt Charakter-Guides, Kampftipps, Boss-Strategien, Waffen-Builds, Systemanforderungen und die neuesten Release-News.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "characters": "Charaktere",
+    "combat": "Kampf",
+    "modes": "Modi",
+    "platforms": "Plattformen",
+    "items": "Items",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Vindictus: Defying Fate Wiki - Builds & Guides",
+      "description": "Alle Charakter-Guides, Kampftipps, Boss-Strategien, Waffen-Builds, Systemanforderungen, Release-News und offiziellen Updates zu Vindictus: Defying Fate an einem Ort."
+    },
+    "hero": {
+      "eyebrow": "Dark-Fantasy-Action-RPG",
+      "title": "Vindictus: Defying Fate Wiki",
+      "description": "Erkundet Vindictus: Defying Fate mit Charakter-Guides, Kampftipps, Boss-Strategien, Waffen-Builds, Systemanforderungen und den neuesten Release-News.",
+      "stats": [
+        "Release 2027 geplant",
+        "4 vorgestellte Charaktere",
+        "4 Sprachen bei Steam",
+        "Einzelspieler & Koop"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Boss-Guides",
+      "tertiaryCta": "Release-Termin",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Eure Reise in Vindictus: Defying Fate",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Vindictus: Defying Fate verlangt bei jedem Schlag volle Hingabe, also fangt mit den Grundlagen an: Wählt am Lagerfeuer einen Helden, testet jeden Waffentyp und übt den Rhythmus aus Ausweichen und Kontern, bevor ihr auf Schaden geht."
+        },
+        {
+          "number": "2",
+          "title": "Der beste Charakter für den Start",
+          "description": "Vergleicht die vier bestätigten Helden, bevor ihr euch festlegt. Lann verkettet Doppelschwert-Kombos, Fiona blockt und kontert hinter Langschwert und Schild, Karok bringt Massen mit einer gewaltigen Säule ins Wanken und Delia belohnt präzise Bastardschwert-Ketten."
+        },
+        {
+          "number": "3",
+          "title": "Kampf-Grundlagen",
+          "description": "Der Kampf in Vindictus: Defying Fate folgt einem Fünf-Schritt-Kreislauf: Angriff ködern, perfekt ausweichen, kontern, einen schweren Treffer landen und zurücksetzen. Ausweichen, Blocken und Sprinten zehren alle von derselben Ausdauer, also gebt sie wie eine Währung aus."
+        },
+        {
+          "number": "4",
+          "title": "Skilltree und Fähigkeitspunkte",
+          "description": "Fähigkeitspunkte stammen aus Truhen, die ihr beim Erkunden findet. Investiert sie in den gemeinsamen allgemeinen Skilltree, um alle Helden und Begleiter gleichzeitig zu stärken, und setzt danach Punkte in charakterspezifische Knoten, um euren Main zu spezialisieren."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagte Vindictus: Defying Fate Guides",
+      "quickLinks": [
+        "Charakter-Guides",
+        "Kampf-Grundlagen",
+        "Boss-Strategien",
+        "Release-Termin"
+      ],
+      "cards": [
+        {
+          "badge": "Kader",
+          "title": "Alle Charaktere",
+          "description": "Lann, Fiona, Karok und Delia im Vergleich nach Waffentyp, Kernfähigkeiten und Spielstil, bevor ihr einen Main wählt.",
+          "href": "/characters/vindictus-defying-fate-all-characters"
+        },
+        {
+          "badge": "Kern",
+          "title": "Kampf-Guide",
+          "description": "Perfekte Ausweicher, kraftvolle Konter, schwere Treffer und die Ausdauerregeln hinter jedem Kampf in Vindictus: Defying Fate.",
+          "href": "/combat/vindictus-defying-fate-combat"
+        },
+        {
+          "badge": "Bosse",
+          "title": "Boss-Strategien",
+          "description": "Crimsongale, Shadowfang, Sharptooth und Snowskin mit Angriffsmustern und Fenstern für Gegenangriffe im Detail.",
+          "href": "/combat/vindictus-defying-fate-bosses"
+        },
+        {
+          "badge": "2027",
+          "title": "Release-Termin",
+          "description": "Das angegebene Release-Fenster 2027, Meilensteine aus den Dev-Logs und wo ein bestätigter Termin zuerst auftaucht.",
+          "href": "/guide/vindictus-defying-fate-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "Systemanforderungen",
+          "description": "Minimale und empfohlene CPU- und GPU-Klassen, damit ihr ein Upgrade lange vor der Release-Woche planen könnt.",
+          "href": "/guide/vindictus-defying-fate-system-requirements"
+        },
+        {
+          "badge": "Test",
+          "title": "Alpha-Test-Zugang",
+          "description": "Wie Alpha- und Fokusgruppen-Testfenster ablaufen und was ihr vorbereiten solltet, bevor das nächste öffnet.",
+          "href": "/guide/vindictus-defying-fate-alpha-test"
+        },
+        {
+          "badge": "Vergleich",
+          "title": "Klassenvergleich",
+          "description": "Waffentypen, Kampfrollen und Lernkurven direkt nebeneinander, damit ihr einen passenden Helden findet.",
+          "href": "/characters/vindictus-defying-fate-classes"
+        },
+        {
+          "badge": "Koop",
+          "title": "Koop und Spezialmissionen",
+          "description": "Wie Online-Koop, Begleiterwechsel und Spezialmissionen den Ablauf von Bosskämpfen verändern.",
+          "href": "/modes/vindictus-defying-fate-coop"
+        },
+        {
+          "badge": "Ausrüstung",
+          "title": "Kostüme und Outfits",
+          "description": "Kosmetische Rüstungssets, Kostüme und Skins, dokumentiert für den Kader von Vindictus: Defying Fate.",
+          "href": "/items/vindictus-defying-fate-costumes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Vindictus: Defying Fate?",
+      "paragraphs": [
+        "Vindictus: Defying Fate ist Nexons charaktergetriebenes Action-RPG und eine moderne Neuinterpretation des ursprünglichen Vindictus-MMOs. Es basiert auf wuchtigem, animationsgebundenem Nahkampf: Jeder Schlag bindet euch in ein Erholungsfenster, Ausdauer bezahlt Ausweichen und Blocken, und Bosse kündigen Angriffe an, die ihr lesen statt einstecken sollt. Steam listet es als Action-RPG mit den Tags Souls-like und Hack and Slash, mit geplantem Release-Fenster 2027 für PC.",
+        "Der Alpha-Kader umfasst vier Helden: Lann mit Doppelschwertern, Fiona mit Langschwert und Schild, Karok mit einer gewaltigen Säule und Delia mit einem Bastardschwert. Ihr könnt sie an jedem Lagerfeuer wechseln, den Helden eures Begleiters ebenso ändern und über einen charakterspezifischen Skilltree plus einen gemeinsamen allgemeinen Baum wachsen. Die Kämpfe reichen von einer Solokampagne bis zu Koop-Spezialmissionen, und dieses Wiki begleitet all das mit Charakteranalysen, Kampf-Grundlagen, Boss-Strategien, PC-Anforderungen und Release-News."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Nexon"
+        },
+        {
+          "label": "Publisher",
+          "value": "Nexon"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Genre",
+          "value": "Action-RPG"
+        },
+        {
+          "label": "Kampfstil",
+          "value": "Souls-like"
+        },
+        {
+          "label": "Release-Fenster",
+          "value": "2027"
+        },
+        {
+          "label": "Spielbare Helden",
+          "value": "4"
+        },
+        {
+          "label": "Spielmodi",
+          "value": "Solo und Koop"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Das Vindictus: Defying Fate Wiki erkunden",
+      "description": "Acht Guide-Hubs zum Kader, Kampfsystem, Bossbegegnungen, Helden-Ranking, Release-Details, PC-Anforderungen und Entwicklungs-News von Vindictus: Defying Fate, damit ihr jeden Schritt vor dem Release-Fenster 2027 planen könnt.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Vindictus Defying Fate Charaktere",
+          "description": "Stellt die spielbaren Helden Lann, Fiona, Karok und Delia vor und zeigt ihre Waffen, Kampfstile, Kernfähigkeiten und die Stärken, die entscheiden, welcher Kämpfer zu eurem Spielstil passt.",
+          "href": "/characters/vindictus-defying-fate-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lann",
+              "detail": "Doppelschwerter und schnelle, spektakuläre Kombos rund um Cross Assault, Windmill und Fatal Fury."
+            },
+            {
+              "label": "Fiona",
+              "detail": "Langschwert und Schild: eine Kämpferin, die blockt, absorbiert und mit Shield Bash und Focal Point bestraft."
+            },
+            {
+              "label": "Karok",
+              "detail": "Halbriese mit gewaltiger Säule, der Tempo gegen Reichweite, Wanken und Flächenkontrolle tauscht."
+            },
+            {
+              "label": "Delia",
+              "detail": "Bastardschwert-Spezialistin, deren bedachte Ketten Bloom Waltz und White Rose einschließen."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Vindictus Defying Fate Einsteiger-Guide",
+          "description": "Begleitet eure ersten Sessions Schritt für Schritt: Heldenwahl, Vorwarnungen der Gegner lesen, Ausweichtiming, Ausdauermanagement, Charakterwechsel am Lagerfeuer und Erkunden für Fähigkeitspunkte.",
+          "href": "/guide/vindictus-defying-fate-download",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wählt am Lagerfeuer einen Helden: Lann für Tempo, Fiona für Verteidigung, Karok für Wanken, Delia für technische Ketten."
+            },
+            {
+              "label": "2",
+              "detail": "Lernt den Rhythmus aus Ausweichen und Kontern, bevor ihr auf Schaden geht, denn ein perfekter Ausweicher öffnet jedes echte Bestrafungsfenster."
+            },
+            {
+              "label": "3",
+              "detail": "Beobachtet die Ausdauerleiste: Ausweichen, Blocken und Sprinten zehren von demselben Vorrat, der euch am Leben hält."
+            },
+            {
+              "label": "4",
+              "detail": "Wechselt Held und Begleiter an jedem Lagerfeuer, um Waffen zu testen, ohne euren Run neu zu starten."
+            },
+            {
+              "label": "5",
+              "detail": "Öffnet Truhen für Fähigkeitspunkte und Materialien und investiert dann in den gemeinsamen allgemeinen Baum, damit nichts verloren geht."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Vindictus Defying Fate Kampf-Guide",
+          "description": "Erklärt das Action-Kampfsystem mit perfekten Ausweichern, kraftvollen Kontern, schweren Treffern, Ausdauerdisziplin, dem Erkennen von Gegnermustern und den Eingaben, die sich pro Held unterscheiden.",
+          "href": "/combat/vindictus-defying-fate-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ausweichen",
+              "detail": "Timt den Ausweicher so, dass der Angriff komplett ins Leere geht, denn ein sauberer perfekter Ausweicher schafft die Öffnung für alles Weitere."
+            },
+            {
+              "label": "Kontern",
+              "detail": "Verwandelt einen gelungenen Ausweicher sofort in Burst-Schaden, während der Gegner noch in seinen Erholungsframes feststeckt."
+            },
+            {
+              "label": "Schwerer Treffer",
+              "detail": "Setzt eure Öffnung auf den größten, langsamsten Schlag statt auf einen schnellen Stich, und geht danach wieder auf Position und ködert erneut."
+            },
+            {
+              "label": "Ausdauer",
+              "detail": "Ausweichen, Blocken und Sprinten teilen sich einen Vorrat, und eine leere Leiste ist der Beginn der meisten Wipes."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Vindictus Defying Fate Boss-Guide",
+          "description": "Deckt jeden bisher dokumentierten Boss ab, mit Angriffsmustern, Timing für Ausweichen und Blocken, Solo- und Koop-Taktiken und einem wiederholbaren Plan für schwere Kämpfe.",
+          "href": "/combat/vindictus-defying-fate-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Häuptling",
+              "detail": "Gnoll-Häuptling Crimsongale eröffnet die Kampagne mit weiten Schwüngen, die zu spätes Ausweichen bestrafen."
+            },
+            {
+              "label": "Shadowfang",
+              "detail": "Schneller, unablässiger Druck mit kurzen Erholungsfenstern und hechtenden Annäherungen, also bestraft erst nach dem letzten Treffer."
+            },
+            {
+              "label": "Sharptooth",
+              "detail": "Aggressiver Bestien-Raufbold, dessen Anstürme großzügige Trefferboxen haben, also seitlich ausweichen statt zurücklaufen."
+            },
+            {
+              "label": "Snowskin",
+              "detail": "Ein Ausdauerkampf im Kaltklima mit langsamen, schweren Flächenangriffen, die gierige Kombos bestrafen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Vindictus Defying Fate Tier List",
+          "description": "Vergleicht die vier Alpha-Helden nach Kampfstil, Schadenspotenzial, Überlebensfähigkeit, Mobilität und Zugänglichkeit, damit ihr einen Main findet, der zu eurer Kampfweise passt.",
+          "href": "/characters/vindictus-defying-fate-classes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Fiona: Langschwert und Schild mit Block-, Absorptions- und Konterwerkzeugen, der verzeihendste erste Main."
+            },
+            {
+              "label": "A",
+              "detail": "Lann: Doppelschwert-Tempo und Komboketten mit der höchsten Ausführungsgrenze im Kader."
+            },
+            {
+              "label": "B",
+              "detail": "Delia: Bastardschwert-Ketten, die das Erlernen ganzer Sequenzen statt Button-Mashing belohnen."
+            },
+            {
+              "label": "C",
+              "detail": "Karok: gewaltige Säule, langsam aber breit, gebaut für Wanken und Massenkontrolle statt Mobilität."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Vindictus Defying Fate Release-Termin und Plattformen",
+          "description": "Fasst das angekündigte Release-Fenster, bestätigte Plattformen, den Store-Status und Entwicklungsmeilensteine zusammen, verfolgt über Nexons Dev-Logs und die offizielle Steam-Seite.",
+          "href": "/guide/vindictus-defying-fate-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fenster",
+              "detail": "Vindictus: Defying Fate ist für ein Release-Fenster 2027 gelistet, ein genaues Datum wurde noch nicht angekündigt."
+            },
+            {
+              "label": "Plattform",
+              "detail": "Windows-PC über Steam ist die einzige bestätigte Plattform, Konsolen wurden nicht angekündigt."
+            },
+            {
+              "label": "Store",
+              "detail": "Die Steam-Seite ist online und die Wunschliste geöffnet, kaufen lässt sich das Spiel aber noch nicht."
+            },
+            {
+              "label": "Modi",
+              "detail": "Eine Einzelspieler-Kampagne plus Online-Koop, wobei die Entwickler Controller-Steuerung empfehlen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Vindictus Defying Fate Systemanforderungen",
+          "description": "Listet die veröffentlichten minimalen und empfohlenen PC-Spezifikationen mit Betriebssystem, Prozessor und Grafikkartenklassen auf, damit ihr einschätzen könnt, ob euer Rechner bereit ist.",
+          "href": "/guide/vindictus-defying-fate-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 (64-Bit) sowohl bei den Mindest- als auch bei den empfohlenen Anforderungen."
+            },
+            {
+              "label": "CPU",
+              "detail": "Minimum Intel Core i5-9400F oder AMD Ryzen 7 1800X, empfohlen Intel Core i7-10700K oder AMD Ryzen 7 3700X."
+            },
+            {
+              "label": "GPU",
+              "detail": "Minimum GeForce GTX 1060 (6 GB) oder Radeon RX 480 (8 GB), empfohlen RTX 3060 oder RX 5700 XT."
+            },
+            {
+              "label": "RAM",
+              "detail": "Auf der Steam-Seite noch nicht veröffentlicht, also plant mit Reserve über der empfohlenen Klasse."
+            },
+            {
+              "label": "Speicher",
+              "detail": "Ebenfalls nicht veröffentlicht, daher ist eine moderne SSD für große Bossarenen die sicherste Annahme."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Vindictus Defying Fate News und Updates",
+          "description": "Sammelt offizielle Dev-Logs, Testankündigungen, Gameplay-Enthüllungen und Release-News an einem Ort, damit ihr verfolgen könnt, wie sich Kampf, Charaktere und Features entwickeln.",
+          "href": "/guide/vindictus-defying-fate-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dev-Logs",
+              "detail": "Nexon kommuniziert über monatliche Dev-Logs, darunter der Beitrag vom April 2026 zum ersten Fokusgruppen-Test."
+            },
+            {
+              "label": "Tests",
+              "detail": "Alpha- und Steam-Next-Fest-Fenster haben Kampfgefühl und Schwierigkeitskurve vor dem Release 2027 geprägt."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Offizielle Trailer und Gameplay-Enthüllungen, gesammelt von den Nexon-Kanälen und der Steam-Seite."
+            },
+            {
+              "label": "Wunschliste",
+              "detail": "Der Eintrag in die Steam-Wunschliste ist der schnellste Weg, einen bestätigten Release-Termin im Moment der Änderung zu erwischen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vindictus: Defying Fate FAQ",
+      "description": "Klare Antworten auf die häufigsten Fragen neuer Vindictus: Defying Fate Spieler, von Release-Zeitpunkt und Charakteren bis zu Kampfablauf und PC-Anforderungen.",
+      "items": [
+        {
+          "question": "Was ist Vindictus: Defying Fate?",
+          "answer": "Vindictus: Defying Fate ist Nexons charaktergetriebenes Action-RPG und eine moderne Neuinterpretation des ursprünglichen Vindictus. Es basiert auf animationsgebundenem Nahkampf, bei dem jeder Schlag Hingabe kostet, Ausdauer eure Ausweicher und Blocks speist und Bosse Angriffe ankündigen, die ihr lesen und kontern sollt."
+        },
+        {
+          "question": "Wann erscheint Vindictus: Defying Fate?",
+          "answer": "Vindictus: Defying Fate ist bei Steam für ein Release-Fenster 2027 gelistet, ein genaues Datum wurde noch nicht angekündigt. Die Store-Seite ist online und die Wunschliste geöffnet, dort erscheint ein bestätigter Termin zuerst."
+        },
+        {
+          "question": "Welche Charaktere kann ich in Vindictus: Defying Fate spielen?",
+          "answer": "Der Alpha-Kader umfasst vier Helden: Lann mit Doppelschwertern, Fiona mit Langschwert und Schild, Karok mit einer gewaltigen Säule und Delia mit einem Bastardschwert. An jedem Lagerfeuer könnt ihr zwischen ihnen wechseln und auch den Helden eures Begleiters ändern."
+        },
+        {
+          "question": "Wie funktioniert der Kampf in Vindictus: Defying Fate?",
+          "answer": "Der Kampf in Vindictus: Defying Fate folgt einem Fünf-Schritt-Kreislauf: Angriff ködern, perfekt ausweichen, in einen Konter umwandeln, die Öffnung für einen schweren Treffer nutzen und zurücksetzen. Ausdauer bezahlt Ausweichen, Blocken und Sprinten, also entscheidet die Verwaltung dieses einen Vorrats über die meisten Kämpfe."
+        },
+        {
+          "question": "Läuft Vindictus: Defying Fate auf meinem PC?",
+          "answer": "Die veröffentlichten Mindestanforderungen sind Windows 10 64-Bit mit Intel Core i5-9400F oder AMD Ryzen 7 1800X und GeForce GTX 1060 (6 GB) oder Radeon RX 480 (8 GB). Die empfohlene Klasse verlangt einen Core i7-10700K oder Ryzen 7 3700X mit RTX 3060 oder RX 5700 XT."
+        },
+        {
+          "question": "Hat Vindictus: Defying Fate einen Koop-Modus?",
+          "answer": "Ja. Vindictus: Defying Fate kombiniert eine Solokampagne mit Online-Koop, und Bossbegegnungen teilen sich in Kampagnenkämpfe und kooperative Spezialmissionen auf. Die Steam-Seite empfiehlt das Spielen mit Controller."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Vindictus: Defying Fate zu meistern?",
+      "description": "Von euren ersten Schritten im Alpha-Test bis zu den Endgame-Bosskämpfen versorgt euch unser Community-Wiki mit kostenlosen, aktuellen Guides.",
+      "primary": "Alle Guides durchsuchen",
+      "secondary": "Auf Steam zur Wunschliste"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Vindictus: Defying Fate Guide",
+    "overviewDescription": "Release-Termin, Demo, Download und Systemanforderungen — alles, was ihr vor dem Release von Vindictus: Defying Fate wissen müsst."
+  },
+  "characters": {
+    "overviewTitle": "Vindictus: Defying Fate Charaktere",
+    "overviewDescription": "Jeder spielbare Charakter und jede Klasse in Vindictus: Defying Fate, von Fiona und Lann bis Delia und Karok, plus Anpassungsoptionen."
+  },
+  "combat": {
+    "overviewTitle": "Vindictus: Defying Fate Kampf & Bosse",
+    "overviewDescription": "Bosskämpfe, Waffenstile und der Souls-like Kampf aus Ausweichen und Kontern, der Vindictus: Defying Fate prägt."
+  },
+  "modes": {
+    "overviewTitle": "Vindictus: Defying Fate Spielmodi",
+    "overviewDescription": "Details zu Multiplayer, Koop, Einzelspieler, Offline und Open World in Vindictus: Defying Fate."
+  },
+  "platforms": {
+    "overviewTitle": "Vindictus: Defying Fate Plattformen",
+    "overviewDescription": "Was Nexon zu den Release-Plänen für PC, Steam, PS5 und Xbox von Vindictus: Defying Fate bestätigt hat."
+  },
+  "items": {
+    "overviewTitle": "Vindictus: Defying Fate Items & Outfits",
+    "overviewDescription": "Outfits, Rüstungen, Kostüme und Skins, mit denen ihr das Aussehen eures Charakters in Vindictus: Defying Fate anpasst."
+  },
+  "community": {
+    "overviewTitle": "Vindictus: Defying Fate Community",
+    "overviewDescription": "Offizielle Website, Discord- und Reddit-Links für Spieler, die Vindictus: Defying Fate verfolgen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Braucht ihr Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schaut bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Vindictus: Defying Fate Wiki",
+    "about": "Das Vindictus: Defying Fate Wiki ist ein unabhängiger, von Fans gebauter Guide-Hub zu Charakteren, Kampf, Bossen, Builds und wichtigem Spielwissen für neue wie erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Vindictus: Defying Fate Wiki. Nicht mit NEXON verbunden.",
+    "description": "Dark-Fantasy-Action-RPG von NEXON. Charakter-Builds, Boss-Guides und Kampftipps.",
+    "playGame": "Offizielle Website",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam-Shopseite",
+    "beginnerGuide": "Einsteiger-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "characterGuides": "Charakter-Guides",
+    "combatGuides": "Kampf- & Boss-Guides",
+    "gameModes": "Spielmodi",
+    "platformGuides": "Plattformen & Release",
+    "itemGuides": "Items & Outfits",
+    "communityLinks": "Community"
+  }
+}
