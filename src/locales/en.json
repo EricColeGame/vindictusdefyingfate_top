@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "modes": "Modes",
+    "platforms": "Platforms",
+    "items": "Items",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -421,12 +428,37 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Vindictus: Defying Fate Guide",
+    "overviewDescription": "Release date, demo, download and system requirements — everything you need to know before Vindictus: Defying Fate launches."
+  },
+  "characters": {
+    "overviewTitle": "Vindictus: Defying Fate Characters",
+    "overviewDescription": "Every playable character and class in Vindictus: Defying Fate, from Fiona and Lann to Delia and Karok, plus customization options."
+  },
+  "combat": {
+    "overviewTitle": "Vindictus: Defying Fate Combat & Bosses",
+    "overviewDescription": "Boss fights, weapon styles and the soulslike dodge-and-counter combat that defines how Vindictus: Defying Fate plays."
+  },
+  "modes": {
+    "overviewTitle": "Vindictus: Defying Fate Game Modes",
+    "overviewDescription": "Multiplayer, co-op, single player, offline and open world details for Vindictus: Defying Fate."
+  },
+  "platforms": {
+    "overviewTitle": "Vindictus: Defying Fate Platforms",
+    "overviewDescription": "What Nexon has confirmed about the PC, Steam, PS5 and Xbox release plans for Vindictus: Defying Fate."
+  },
+  "items": {
+    "overviewTitle": "Vindictus: Defying Fate Items & Outfits",
+    "overviewDescription": "Outfits, armor, costumes and skins that let you customize how your Vindictus: Defying Fate character looks."
+  },
+  "community": {
+    "overviewTitle": "Vindictus: Defying Fate Community",
+    "overviewDescription": "Official website, Discord and Reddit links for players following Vindictus: Defying Fate."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -452,10 +484,13 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Store Page",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Character Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Character Guides",
+    "combatGuides": "Combat & Boss Guides",
+    "gameModes": "Game Modes",
+    "platformGuides": "Platforms & Release",
+    "itemGuides": "Items & Outfits",
+    "communityLinks": "Community"
   }
 }
