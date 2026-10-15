@@ -19,18 +19,20 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Vindictus: Defying Fate Wiki",
+  shortName: "Vindictus: Defying Fate",
+  logoText: "VDF",
+  tagline: "Character Builds, Boss Guides & Combat Tips",
+  description: "Your ultimate guide to Vindictus: Defying Fate! Explore character builds, combat tips, boss strategies, weapon guides, system requirements, and release news.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://vindictusdefyingfate.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://vindictusdefyingfate.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://vdf.nexon.com/",
+  heroVideoId: "3BJB2uy_9to", // Vindictus: Defying Fate – Alpha Test Final Trailer (official channel)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/vdefyingfate",
+    youtube: "https://www.youtube.com/@VindictusDefyingFate",
+    twitter: "https://twitter.com/V_DefyingFate",
+    tiktok: "https://www.tiktok.com/@vindictus_defyingfate",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
