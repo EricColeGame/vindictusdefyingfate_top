@@ -11,6 +11,7 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    steam?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,12 +26,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Character Builds, Boss Guides & Combat Tips",
   description: "Your ultimate guide to Vindictus: Defying Fate! Explore character builds, combat tips, boss strategies, weapon guides, system requirements, and release news.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://vindictusdefyingfate.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://vindictusdefyingfate.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@vindictusdefyingfate.top",
   gameUrl: "https://vdf.nexon.com/",
   heroVideoId: "3BJB2uy_9to", // Vindictus: Defying Fate – Alpha Test Final Trailer (official channel)
   social: {
     discord: "https://discord.gg/vdefyingfate",
     youtube: "https://www.youtube.com/@VindictusDefyingFate",
+    steam: "https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/",
     twitter: "https://twitter.com/V_DefyingFate",
     tiktok: "https://www.tiktok.com/@vindictus_defyingfate",
   },

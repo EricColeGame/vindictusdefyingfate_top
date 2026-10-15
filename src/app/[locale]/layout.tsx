@@ -22,17 +22,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const defaultTitle = "Vindictus: Defying Fate Wiki - Builds & Guides";
+  const defaultDescription = "Find Vindictus: Defying Fate character guides, combat tips, boss strategies, weapon builds, system requirements, release news, and official updates in one place.";
+  const imageAlt = "Vindictus: Defying Fate key art";
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Vindictus: Defying Fate Wiki - Builds & Guides", template: "%s" },
-    description: "Find Vindictus: Defying Fate character guides, combat tips, boss strategies, weapon builds, system requirements, release news, and official updates in one place.",
+    title: { default: defaultTitle, template: "%s" },
+    description: defaultDescription,
+    applicationName: siteConfig.name,
     manifest: "/manifest.json",
     icons: {
       icon: [{ url: "/favicon.ico" }, { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" }, { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" }],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: defaultTitle, description: defaultDescription, images: [{ url: image, alt: imageAlt }] },
+    twitter: { card: "summary_large_image", title: defaultTitle, description: defaultDescription, images: [{ url: image, alt: imageAlt }] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -45,10 +49,10 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
